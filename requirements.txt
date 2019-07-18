@@ -1,3 +1,10 @@
 pandas_datareader
 pandas
 matplotlib
+sagemaker
+tensorflow
+Keras
+scikit-learn
+Quandl
+numpy
+bokeh
